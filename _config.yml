@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zengjie Hu(胡增杰) / About me"
+title                    : "Zengjie Hu(胡增杰)"
 title_separator          : "-"
 name                     : &name "Zengjie Hu(胡增杰)"
 description              : &description "Master's at PKU"
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=fNdvqpQAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0008-1858-4768"
+  orcid            : # "https://orcid.org/0009-0008-1858-4768"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
