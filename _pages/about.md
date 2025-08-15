@@ -23,7 +23,7 @@ Intern & Work Experience
 ======
 - **Shanghai Artificial Laboratory, Shanghai, China** <br>
 *2025/06 - Present* <br>
-Position: Research Intern
+Position: Research Intern supervised by [Dr. Jiantao Qiu](https://scholar.google.com/citations?user=Vm8bStkAAAAJ&hl=en)
 
 - **Peking University, Beijing, China** <br>
 *2024/10 - Present* <br>
