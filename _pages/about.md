@@ -29,11 +29,11 @@ Position: Research Intern, supervised by [Dr. Jiantao Qiu](https://scholar.googl
 *2024/10 - Present* <br>
 Position: Research Assistant in [Prof. Wentao Zhang](https://zwt233.github.io/) 's [DCAI Group](https://github.com/OpenDCAI) <br>
 Publications:
-  - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) (Co-first author, In submission)
+  - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) (Co-first author, NIPS 2025)
 
 
 Publications
 ======
 - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) <br>
   Tianyi Bai\*, **Zengjie Hu\***, Fupeng Sun\*, Jiantao Qiu, Yizhen Jiang, Guangxin He, Bohan Zeng, Conghui He, Binhang Yuan, Wentao Zhang <br>
-  (Co-first author, In submission)
+  (Co-first author, NIPS 2025)
