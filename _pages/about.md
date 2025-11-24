@@ -23,7 +23,10 @@ Intern & Work Experience
 ======
 - **Shanghai Artificial Laboratory, Shanghai, China** <br>
 *2025/06 - Present* <br>
-Position: Research Intern, supervised by [Dr. Jiantao Qiu](https://scholar.google.com/citations?user=Vm8bStkAAAAJ&hl=en)
+Position: Research Intern, supervised by [Dr. Jiantao Qiu](https://scholar.google.com/citations?user=Vm8bStkAAAAJ&hl=en)<br>
+Publications:
+  - [VADE: Variance-Aware Dynamic Sampling via Online Sample-Level Difficulty Estimation for Multimodal RL](https://VADE-RL.github.io) (In Submission)
+
 
 - **Peking University, Beijing, China** <br>
 *2024/10 - Present* <br>
@@ -37,3 +40,6 @@ Publications
 - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) <br>
   Tianyi Bai\*, **Zengjie Hu\***, Fupeng Sun\*, Jiantao Qiu, Yizhen Jiang, Guangxin He, Bohan Zeng, Conghui He, Binhang Yuan, Wentao Zhang <br>
   (Co-first author, NIPS 2025)
+- [VADE: Variance-Aware Dynamic Sampling via Online Sample-Level Difficulty Estimation for Multimodal RL](https://VADE-RL.github.io) <br>
+  **Zengjie Hu\***, Jiantao Qiu\*, Tianyi Bai\*, Haojin Yang, Binhang Yuan Conghui He, Qi Jing, Wentao Zhang <br>
+  (In Submission)
