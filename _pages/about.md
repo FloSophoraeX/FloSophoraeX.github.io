@@ -21,8 +21,12 @@ B.S. in the Department of Computer Science and Technology <br>
 
 Intern & Work Experience
 ======
+- **ByteDance Seed Application, Beijing, China**<br>
+Position: Applied Algorithm Intern <br>
+Worked on optimizing LLMs' agentic capabilities.
+
 - **Meituan Longcat Interaction Team, Beijing, China** <br>
-*2025/12 - Present* <br>
+*2025/12 - 2026/03* <br>
 Position: Research Intern<br>
 Publications:
   - [ToolVerse: Unlocking Massive Environments and Long Horizon Tasks for Agentic Reinforcement Learning](../_publications/ToolVerse.pdf) (Co-first author, In Submission)
