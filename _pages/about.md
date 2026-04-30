@@ -22,6 +22,7 @@ B.S. in the Department of Computer Science and Technology <br>
 Intern & Work Experience
 ======
 - **ByteDance Seed Application, Beijing, China**<br>
+*2026/04 - Present* <br>
 Position: Applied Algorithm Intern <br>
 Worked on optimizing LLMs' agentic capabilities.
 
