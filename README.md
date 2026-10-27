@@ -1,4 +1,19 @@
 # Academic Pages
+
+## Homepage visitor map
+
+The homepage includes `_includes/visitors.html` after the publications list.
+To activate the public visitor map and counter:
+
+1. Create a visitor map with a provider accessible to your audience (for example, https://www.visitordots.com/) for `https://flosophoraex.github.io/`. Select a widget that displays both the map and visit count.
+2. Paste the complete generated embed code into `_includes/visitor-map-embed.html`.
+3. Push the changes and let GitHub Pages deploy the site.
+
+Until embed code is supplied, the entire section remains hidden. The widget is
+also hidden in local development to avoid counting preview visits. To preview
+the live widget intentionally, run `JEKYLL_ENV=production bundle exec jekyll serve`.
+Only visits to the homepage load the widget; counts start after activation.
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")

@@ -1,0 +1,13 @@
+{% capture visitor_map_embed %}{% include visitor-map-embed.html %}{% endcapture %}
+{% assign visitor_map_embed = visitor_map_embed | strip %}
+{% if visitor_map_embed != empty and jekyll.environment == "production" %}
+<section aria-labelledby="visitors-heading">
+  <h2 id="visitors-heading">Visitors</h2>
+  <div style="width: 100%; max-width: 420px; margin: 1.5rem auto; text-align: center;">
+    {{ visitor_map_embed }}
+  </div>
+  <p style="font-size: 0.8em; opacity: 0.75; text-align: center;">
+    Visitor locations are approximate.
+  </p>
+</section>
+{% endif %}
